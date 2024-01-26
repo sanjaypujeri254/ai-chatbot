@@ -1,1 +1,1 @@
-# ai-chatbot
+Enhance user interactions effortlessly with our AI Chatbot, powered by Gemini API. This project includes natural language processing, personalization, and seamless multi-platform integration. Get started by cloning the repository, exploring features, and contributing to our innovative solution. 
